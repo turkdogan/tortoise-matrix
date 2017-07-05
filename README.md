@@ -1,4 +1,4 @@
-TortoiseMatrix is a simple, slow and header only matrix implementation in cpp++ language. 
+TortoiseMatrix is a simple, slow and header only matrix implementation in C++ language. 
 
 # Examples
 
@@ -86,5 +86,5 @@ auto row1 = mat.extract(0, 3);
 auto row2 = mat.extract(1, 3);
 ```
 
-# Thinks to implement
+# Things to implement
 Matrix multiplication is O^3. Optimization required.
